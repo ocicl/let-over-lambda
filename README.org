@@ -1,0 +1,10 @@
+* let-over-lambda
+
+Doug Hoyte's "Production" version of macros from Let Over Lambda, ready for ASDF and Quicklisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/thephoeron/let-over-lambda.git   |
+| commit  | ab7df5c  |
+| systems | let-over-lambda |
+|---------+-------------------------------------------|
+
