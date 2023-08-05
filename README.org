@@ -4,7 +4,7 @@ Doug Hoyte's "Production" version of macros from Let Over Lambda, ready for ASDF
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/thephoeron/let-over-lambda.git   |
-| commit  | ab7df5c  |
+| commit  | 9b37512  |
 | systems | let-over-lambda |
 |---------+-------------------------------------------|
 
